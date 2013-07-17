@@ -5,5 +5,5 @@
  * and open the template in the editor.
  */
 echo "Hola mundo!";
-echo "Hola Mundo!!!!!"
+echo "Hola Mundo!!!!!";
 ?>
