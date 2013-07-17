@@ -5,9 +5,4 @@
  * and open the template in the editor.
  */
 echo "Hola mundo!";
-echo "Hola mundo!";
-echo "Hola mundo!";
-echo "Hola mundo!";
-echo "Hola mundo!";
-echo "Hola mundo!";
 ?>
